@@ -5,10 +5,11 @@ $ npm ci
 ```
 
 # Dotenv
+
 Crie um arquivo `.env` baseado no [`.env.example`](./.env.example)
 
-
 # Execução
+
 ```bash
 # development
 $ npm run start
@@ -22,4 +23,5 @@ $ npm run start:prod
 ```
 
 # Api
+
 Ir para a página http://localhost:8080/api
